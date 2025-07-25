@@ -1,0 +1,52 @@
+.dog-sound-card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  transition: transform 0.2s ease-in-out;
+}
+
+.dog-sound-card:hover {
+  transform: translateY(-5px);
+}
+
+.dog-sound-card h3 {
+  color: #4CAF50;
+  margin-top: 0;
+  font-size: 1.5em;
+}
+
+.dog-sound-card p {
+  color: #666;
+  font-size: 0.9em;
+  margin-bottom: 15px;
+}
+
+.dog-sound-card button {
+  background-color: #007bff; /* Blue */
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1em;
+  transition: background-color 0.3s ease;
+}
+
+.dog-sound-card button:hover {
+  background-color: #0056b3;
+}
+
+/* Optional: styling for active playback */
+.dog-sound-card.playing button {
+  background-color: #dc3545; /* Red */
+}
+
+.dog-sound-card.playing button:hover {
+  background-color: #c82333;
+}
