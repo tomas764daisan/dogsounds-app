@@ -25,9 +25,9 @@ The DogSounds App is a delightful and interactive web application designed for d
 
 ## Author
 
-**Name**: Alex "CodeWhisperer" Turner
-**Email**: alex.turner@example.com
-**Website**: code-whisperer.dev
+**Name**: tomas
+**Email**: tomas764daisan@outlook.com
+**Website**: [dogsounds app](https://www.dogsounds.net)
 
 Alex "CodeWhisperer" Turner is a seasoned full-stack developer with over a decade of experience crafting innovative web solutions. Renowned for their meticulous attention to detail and a profound understanding of modern JavaScript frameworks, Alex has a remarkable talent for transforming complex ideas into intuitive and performant applications. They possess a deep knowledge of front-end architecture, API design, and database management, mastering everything from React and Node.js to cloud deployments. Beyond their technical prowess, Alex is known for their incredibly patient and helpful nature, always eager to mentor junior developers and contribute to open-source projects. They believe in the power of collaborative coding and are a strong advocate for clean, readable, and maintainable codebases.
 
